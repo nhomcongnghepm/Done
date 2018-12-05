@@ -29,31 +29,34 @@
     <session id="-691334170">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.68" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="20" />
+          <entry key="css" value="21" />
           <entry key="json" value="1" />
-          <entry key="php" value="120" />
+          <entry key="php" value="186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="17" />
+          <entry key="CSS" value="18" />
           <entry key="JSON" value="1" />
-          <entry key="PHP" value="120" />
+          <entry key="PHP" value="186" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -67,40 +70,27 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="420" />
-          <entry key="PHP" value="7078" />
+          <entry key="CSS" value="435" />
+          <entry key="HTML" value="2" />
+          <entry key="PHP" value="9509" />
           <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="458" />
-          <entry key="php" value="7078" />
+          <entry key="css" value="473" />
+          <entry key="php" value="9511" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/trangchu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2975">
-              <caret line="175" column="22" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controler/sanpham.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gentelella-master/controler/admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            <state relative-caret-position="387">
+              <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -108,26 +98,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2278">
-              <caret line="134" column="27" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/view/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="727">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="253">
+              <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/database.php">
+        <entry file="file://$PROJECT_DIR$/gentelella-master/modal/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2771">
-              <caret line="163" column="48" selection-start-line="163" selection-start-column="48" selection-end-line="163" selection-end-column="48" />
+            <state relative-caret-position="509">
+              <caret line="164" column="55" selection-start-line="164" selection-start-column="55" selection-end-line="164" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/banh.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/trasua.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/sanpham_edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gentelella-master/controler/sanpham_saveedit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/che.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -136,17 +162,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dang</find>
-      <find>laythong</find>
-      <find>laythongtinus</find>
-      <find>đang</find>
-      <find>dethi</find>
-      <find>themde</find>
-      <find>inser</find>
-      <find>insert</find>
-      <find>them</find>
-      <find>recommend-cuisine-box row10</find>
-      <find>Xem thêm</find>
       <find>fa fa-hand-o-right text-highlight</find>
       <find>các</find>
       <find>x_</find>
@@ -166,15 +181,22 @@
       <find>header</find>
       <find>cooky-featured-search</find>
       <find>copyright</find>
+      <find>banh</find>
+      <find>chôc</find>
+      <find>{{#data}}</find>
+      <find>img</find>
+      <find>search</find>
+      <find>capnhat</find>
+      <find>.recommend-cuisine-box</find>
+      <find>.recommend-cuisine-box .item a</find>
+      <find>capnh</find>
+      <find>them</find>
+      <find>cap</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/trangchu.css" />
-        <option value="$PROJECT_DIR$/silde.css" />
-        <option value="$PROJECT_DIR$/trangchu.php" />
-        <option value="$PROJECT_DIR$/frameworks.css" />
         <option value="$PROJECT_DIR$/view/dangnhap.php" />
         <option value="$PROJECT_DIR$/model/init.php" />
         <option value="$PROJECT_DIR$/controler/xulydangnhap.php" />
@@ -188,27 +210,44 @@
         <option value="$PROJECT_DIR$/gentelella-master/modal/init_sanpham.php" />
         <option value="$PROJECT_DIR$/gentelella-master/modal/sanpham.php" />
         <option value="$PROJECT_DIR$/controler/hienthisanpham.php" />
-        <option value="$PROJECT_DIR$/view/sanpham.php" />
-        <option value="$PROJECT_DIR$/gentelella-master/controler/hienthisanpham.php" />
-        <option value="$PROJECT_DIR$/gentelella-master/controler/chinhsuasanpham.php" />
-        <option value="$PROJECT_DIR$/view/sanpham_edit.php" />
-        <option value="$PROJECT_DIR$/gentelella-master/controler/sanpham_saveedit.php" />
         <option value="$PROJECT_DIR$/view/sanphamdelete.php" />
         <option value="$PROJECT_DIR$/../web/view/dethi_delete.php" />
         <option value="$PROJECT_DIR$/gentelella-master/controler/admin.php" />
-        <option value="$PROJECT_DIR$/view/sanpham_delete.php" />
-        <option value="$PROJECT_DIR$/view/themsanpham.php" />
-        <option value="$PROJECT_DIR$/gentelella-master/modal/database.php" />
-        <option value="$PROJECT_DIR$/gentelella-master/controler/taosanpham.php" />
         <option value="$PROJECT_DIR$/assets/css/frameworks.css" />
-        <option value="$PROJECT_DIR$/assets/css/core.css" />
         <option value="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/assets/footer.css" />
         <option value="$PROJECT_DIR$/model/database.php" />
         <option value="$PROJECT_DIR$/controler/sanpham.php" />
-        <option value="$PROJECT_DIR$/view/trangchu.php" />
-        <option value="$PROJECT_DIR$/view/product.php" />
         <option value="$PROJECT_DIR$/view/footer.php" />
+        <option value="$PROJECT_DIR$/../web/controler/hienthidethi.php" />
+        <option value="$PROJECT_DIR$/controler/timkiem.php" />
+        <option value="$PROJECT_DIR$/view/sanpham_delete.php" />
+        <option value="$PROJECT_DIR$/assets/css/core.css" />
+        <option value="$PROJECT_DIR$/controler/hienthibanhtrang.php" />
+        <option value="$PROJECT_DIR$/controler/hienthitrasua.php" />
+        <option value="$PROJECT_DIR$/controler/hienthiche.php" />
+        <option value="$PROJECT_DIR$/controler/hienthicacsanphammoinhat.php" />
+        <option value="$PROJECT_DIR$/controler/dembanhtrang.php" />
+        <option value="$PROJECT_DIR$/controler/chitietbanhtrang.php" />
+        <option value="$PROJECT_DIR$/view/banh.php" />
+        <option value="$PROJECT_DIR$/view/chitietche.php" />
+        <option value="$PROJECT_DIR$/controler/demche.php" />
+        <option value="$PROJECT_DIR$/controler/chitiertrasua.php" />
+        <option value="$PROJECT_DIR$/controler/demtrasua.php" />
+        <option value="$PROJECT_DIR$/controler/hienthisanpham_theoten.php" />
+        <option value="$PROJECT_DIR$/controler/top5sanpham.php" />
+        <option value="$PROJECT_DIR$/view/sanpham.php" />
+        <option value="$PROJECT_DIR$/gentelella-master/controler/hienthisanpham.php" />
+        <option value="$PROJECT_DIR$/view/themsanpham.php" />
+        <option value="$PROJECT_DIR$/gentelella-master/controler/taosanpham.php" />
+        <option value="$PROJECT_DIR$/view/product.php" />
+        <option value="$PROJECT_DIR$/view/sanpham_edit.php" />
+        <option value="$PROJECT_DIR$/gentelella-master/controler/chinhsuasanpham.php" />
+        <option value="$PROJECT_DIR$/gentelella-master/controler/sanpham_saveedit.php" />
+        <option value="$PROJECT_DIR$/gentelella-master/modal/database.php" />
+        <option value="$PROJECT_DIR$/view/che.php" />
+        <option value="$PROJECT_DIR$/view/trasua.php" />
+        <option value="$PROJECT_DIR$/view/trangchu.php" />
       </list>
     </option>
   </component>
@@ -323,16 +362,6 @@
             <path>
               <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
               <item name="banhang" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="banhang" type="462c0819:PsiDirectoryNode" />
-              <item name="controler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="banhang" type="462c0819:PsiDirectoryNode" />
               <item name="gentelella-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -344,21 +373,17 @@
             <path>
               <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
               <item name="banhang" type="462c0819:PsiDirectoryNode" />
+              <item name="gentelella-master" type="462c0819:PsiDirectoryNode" />
+              <item name="modal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banhang" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="controler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,7 +397,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -421,17 +446,20 @@
       <workItem from="1543953201047" duration="5000" />
       <workItem from="1543971276938" duration="14744000" />
       <workItem from="1543988751630" duration="203000" />
+      <workItem from="1543990017394" duration="302000" />
+      <workItem from="1543990475399" duration="11680000" />
+      <workItem from="1544009144732" duration="3307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82609000" />
+    <option name="totallyTimeSpent" value="97898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -452,7 +480,7 @@
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -480,148 +508,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gentelella-master/production/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/dangnhap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="4" selection-start-line="20" selection-start-column="28" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/sanpham.php" />
-    <entry file="file://$PROJECT_DIR$/../web/controler/taodethi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web/modal/Session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web/modal/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/modal/themsanpham.php" />
-    <entry file="file://$PROJECT_DIR$/gentelella-master/modal/init_sanpham.php" />
-    <entry file="file://$PROJECT_DIR$/gentelella-master/modal/sanpham.php" />
-    <entry file="file://$PROJECT_DIR$/../web/view/dethi_news.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="57" column="32" selection-start-line="57" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controler/xulydangnhap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controler/hienthisanpham.php" />
-    <entry file="file://$PROJECT_DIR$/../web/view/dethi_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web/view/dethi_edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="79" column="9" lean-forward="true" selection-start-line="75" selection-start-column="4" selection-end-line="79" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/modal/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/bower.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/chinhsuasanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/hienthisanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/home.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web/modal/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="656" column="5" lean-forward="true" selection-start-line="648" selection-start-column="4" selection-end-line="656" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/sanphamdelete.php" />
     <entry file="file://$PROJECT_DIR$/../web/view/dethi_delete.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/sanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/sanpham_delete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/sanpham_saveedit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/sanpham_edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="96" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="96" />
         </state>
       </provider>
     </entry>
@@ -642,20 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/modal/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="126" column="54" lean-forward="true" selection-start-line="126" selection-start-column="54" selection-end-line="126" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/taosanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../web/view/cauhoi_news.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -663,24 +540,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/themsanpham.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gentelella-master/production/admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/core.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
@@ -721,29 +584,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../web/controler/hienthidethi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../web/controler/chinhsuadethi.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="29" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/trangchu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="175" column="22" selection-start-line="175" selection-start-column="22" selection-end-line="175" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controler/sanpham.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gentelella-master/controler/admin.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -752,24 +598,234 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/product.php">
+    <entry file="file://$PROJECT_DIR$/view/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2278">
-          <caret line="134" column="27" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/sanpham.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/view/dethi_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/controler/hienthidethi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/view/hocsinh_delete.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/timkiem.php" />
+    <entry file="file://$PROJECT_DIR$/model/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2771">
-          <caret line="163" column="48" selection-start-line="163" selection-start-column="48" selection-end-line="163" selection-end-column="48" />
+        <state relative-caret-position="543">
+          <caret line="205" column="111" selection-start-line="205" selection-start-column="104" selection-end-line="205" selection-end-column="111" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/view/footer.php">
+    <entry file="file://$PROJECT_DIR$/view/sanpham_delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/hienthibanhtrang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/hienthitrasua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/hienthiche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/hienthicacsanphammoinhat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="6273" column="166" selection-start-line="6273" selection-start-column="166" selection-end-line="6273" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/chitietche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/demche.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/dembanhtrang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/chitietbanhtrang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/chitiertrasua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/demtrasua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/top5sanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controler/hienthisanpham_theoten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/hienthisanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/taosanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/chinhsuasanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/themsanpham.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/sanpham_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gentelella-master/modal/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="164" column="55" selection-start-line="164" selection-start-column="55" selection-end-line="164" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gentelella-master/controler/sanpham_saveedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/che.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/banh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/trasua.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/trangchu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
         </state>
       </provider>
     </entry>

@@ -124,12 +124,12 @@ class database
             return $sql;
         }
     }
-    public function themsanpham($ten,$gia,$hinh,$loai)
+    public function themsanpham($ten,$gia,$hinh,$loai,$sl,$mt)
     {
 
         if($this->cn)
         {
-            $sql="INSERT INTO sanpham(masp,tensp,gia,hinhanh,loai) VALUE ('','$ten','$gia','$hinh','$loai')";
+            $sql="INSERT INTO sanpham(masp,tensp,gia,soluong,hinhanh,loai,mota) VALUE ('','$ten','$gia','$sl','$hinh','$loai','$mt')";
             return $sql;
         }
     }
@@ -162,9 +162,9 @@ class database
             return $sql;
         }
     }
-    public function capnhatsp($idmasp,$ten,$gia,$hinh){
+    public function capnhatsp($idmasp,$ten,$gia,$sl,$mt){
         if($this->cn){
-            $sql="UPDATE sanpham SET `masp` =  '".$idmasp."',`tensp` =  '".$ten."',`gia` =  '".$gia."',`hinhanh` ='$hinh' where masp='".$idmasp."'";
+            $sql="UPDATE sanpham SET `masp` =  '".$idmasp."',`tensp` =  '".$ten."',`gia` =  '".$gia."',`soluong` =  '".$sl."',`mota` =  '".$mt."' where sanpham.masp='".$idmasp."'";
             return $sql;
         }
     }

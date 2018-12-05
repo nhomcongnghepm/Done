@@ -26,6 +26,14 @@
             <td width="454"> <input size=25 type="text" name="gia" value="" autocomplete = "off"></td>
         </tr>
         <tr>
+            <td height="39" align="center" class="tbltitle">Số lượng</td>
+            <td width="454"> <input size=25 type="text" name="sl" value="" autocomplete = "off"></td>
+        </tr>
+        <tr>
+            <td height="39" align="center" class="tbltitle">Mô tả sản phẩm</td>
+            <td width="454"> <input size=25 type="text" name="mt" value="" autocomplete = "off"></td>
+        </tr>
+        <tr>
             <td height="39" align="center" class="tbltitle">Loại sản phẩm:</td>
             <td><select class="form-control" name="loai" id="chondotthi">
                 <option value="1">Bánh Tráng</option>

@@ -43,6 +43,7 @@
                 <th>Mã sản phẩm</th>
                 <th>Tên sản phẩm</th>
                 <th>Giá</th>
+                <th>Số lượng</th>
                 <th>Hình ảnh</th>
                 <th>Chỉnh sửa</th>
             </tr>
@@ -56,9 +57,9 @@
     <div class="nav navbar-right" id="DinhHuong" style="transform:translateY(-35px)">
         <ul class="nav  pager">
             <li class="previous">
-                <a href="?menu=quanlysanpham&amp;page1prev=&lt;?php echo $i?&gt;" style=" background-color:#ffcccc"="">←Trước</a>
+                <a href="?menu=quanlysanpham&page1rev=<?php echo $i?>" style=" background-color:#ffcccc"="">←Trước</a>
             </li>
-            <li class="next"><a href="?menu=quanlysanpham&amp;page1=&lt;?php echo $i?&gt;" style=" background-color:#ffcccc"="">Sau→</a></li>
+            <li class="next"><a href="?menu=quanlysanpham&page1=<?php echo $i?>" style=" background-color:#ffcccc"="">Sau→</a></li>
         </ul>
     </div>
 </div></body></html>

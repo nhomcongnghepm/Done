@@ -46,32 +46,6 @@
                 <li><a href="#">Advertise</a></li>
                 <li><a href="#">About</a></li>
             </ul>
-
-            <div class="social">
-                <a href="#" class="fb">
-                    <span data-icon="f" class="icon"></span>
-                    <span class="info">
-                    <span class="follow">Become a fan Facebook</span>
-                    <span class="num">9,999</span>
-                </span>
-                </a>
-
-                <a href="#" class="tw">
-                    <span data-icon="T" class="icon"></span>
-                    <span class="info">
-                    <span class="follow">Follow us Twitter</span>
-                    <span class="num">9,999</span>
-                </span>
-                </a>
-
-                <a href="#" class="rss">
-                    <span data-icon="R" class="icon"></span>
-                    <span class="info">
-                    <span class="follow">Subscribe RSS</span>
-                    <span class="num">9,999</span>
-                </span>
-                </a>
-            </div>
             <div class="clear"></div>
         </div>
     </div>

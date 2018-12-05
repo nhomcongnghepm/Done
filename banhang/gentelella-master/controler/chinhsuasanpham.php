@@ -9,5 +9,7 @@ while($rows = $db->lay_rows($results)) {
     $masp = $rows['masp'];
     $tensp = $rows['tensp'];
     $gia = $rows['gia'];
+    $sl=$rows['soluong'];
+    $mt=$rows['mota'];
 }
 ?>

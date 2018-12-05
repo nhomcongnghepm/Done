@@ -22,8 +22,12 @@
             <td width="80%"> <input size=30 type="text" name="gia"  value="<?php echo $gia?>"/></td>
         </tr>
         <tr>
-            <td align="center" class="tbltitle" for="fileSelect">Hình ảnh sản phẩm:</td>
-            <td><input type="file" name="file1" id="fileSelect"></td>
+            <td height="39" align="center" class="tbltitle">Số lượng</td>
+            <td width="454"> <input size=25 type="text" name="sl" value="<?php echo $sl?>" autocomplete = "off"></td>
+        </tr>
+        <tr>
+            <td height="39" align="center" class="tbltitle">Mô tả sản phẩm</td>
+            <td width="454"> <input size=25 type="text" name="mt" value="<?php echo $mt?>" autocomplete = "off"></td>
         </tr>
         <tr>
             <td colspan="2" style="padding: 10px 0px 10px 0px" align="center"><label>
@@ -31,6 +35,5 @@
                 </label></td>
         </tr>
         <div class="a" <br style="color:red;"><?php require_once '../../gentelella-master/controler/sanpham_saveedit.php';?></div>
-        <?php echo $file_name;?>
     </table>
 </form>
