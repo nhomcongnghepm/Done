@@ -73,7 +73,6 @@
                 </a>
             </div>
             <div class="clear"></div>
-            <div class="copyright">&copy;  2014 All Rights Reserved</div>
         </div>
     </div>
 </footer>

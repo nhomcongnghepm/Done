@@ -161,10 +161,10 @@ class database
             return $sql;
         }
     }
-    public function test()
+    public function hienthisanpham_theoten($masp)
     {
         if ($this->cn) {
-            $sql = "SELECT * FROM sanpham ";
+            $sql = "SELECT * FROM sanpham where masp='$masp' GROUP BY masp";
             return $sql;
         }
 

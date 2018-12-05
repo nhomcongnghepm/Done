@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="vi" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
 <head>
@@ -176,7 +175,7 @@
                 {
                     ?>
             <div class="item">
-                <a target="_blank" href="">
+                <a target="_blank" href="../view/product.php?masp=<?php echo $row['masp'];?>">
                     <img class="ico" src="<?php echo $row['hinhanh'];?>" />
                     <span><?php echo $row['tensp']?></span>
                 </a>
@@ -210,14 +209,14 @@
                             <div class="item">
                                 <div class="item-inner">
                                     <div class="item-photo">
-                                        <a href="" target="_self">
+                                        <a href="../view/product.php?masp=<?php echo $row1['masp']?>" target="_self">
                                             <img data-src='<?php echo $row1['hinhanh']?>' data-original='<?php echo $row1['hinhanh']?>' data-lazy='<?php echo $row1['hinhanh']?>' alt='<?php echo $row1['tensp']?>' class='lazy img-responsive' src='<?php echo $row1['hinhanh']?>'  />
                                         </a>
                                     </div>
                                     <div class="item-info">
                                         <div class="item-header">
                                             <div class="title">
-                                                <a href="" target="_self"><h3><?php echo $row1['tensp']?></h3></a>
+                                                <a href="../view/product.php?masp=<?php echo $row1['masp']?>" target="_self"><h3><?php echo $row1['tensp']?></h3></a>
                                             </div>
                                         </div>
                                         <div class="event-calendar">
@@ -265,14 +264,14 @@
                     <div class="item">
                         <div class="item-inner">
                             <div class="item-photo">
-                                <a href="" target="_self">
+                                <a href="../view/product.php?masp=<?php echo $row3['masp']?>" target="_self">
                                     <img data-src='<?php echo $row3['hinhanh']?>' data-original='<?php echo $row3['hinhanh']?>' data-lazy='<?php echo $row3['hinhanh']?>' alt='<?php echo $row3['tensp']?>' class='lazy img-responsive' src='<?php echo $row3['hinhanh']?>'  />
                                 </a>
                             </div>
                             <div class="item-info">
                                 <div class="item-header">
                                     <div class="title">
-                                        <a href="" target="_self"><h3><?php echo $row3['tensp']?></h3></a>
+                                        <a href="../view/product.php?masp=<?php echo $row3['masp']?>" target="_self"><h3><?php echo $row3['tensp']?></h3></a>
                                     </div>
                                 </div>
                                 <div class="event-calendar">
@@ -319,14 +318,14 @@
                     <div class="item">
                         <div class="item-inner">
                             <div class="item-photo">
-                                <a href="" target="_self">
+                                <a href="../view/product.php?masp=<?php echo $row4['masp']?>" target="_self">
                                     <img data-src='<?php echo $row4['hinhanh']?>' data-original='<?php echo $row4['hinhanh']?>' data-lazy='<?php echo $row4['hinhanh']?>' alt='<?php echo $row4['tensp']?>' class='lazy img-responsive' src='<?php echo $row4['hinhanh']?>'  />
                                 </a>
                             </div>
                             <div class="item-info">
                                 <div class="item-header">
                                     <div class="title">
-                                        <a href="" target="_self"><h3><?php echo $row4['tensp']?></h3></a>
+                                        <a href="../view/product.php?masp=<?php echo $row4['masp']?>" target="_self"><h3><?php echo $row4['tensp']?></h3></a>
                                     </div>
                                 </div>
                                 <div class="event-calendar">
