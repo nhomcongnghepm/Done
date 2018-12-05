@@ -219,14 +219,14 @@
                             <div class="item">
                                 <div class="item-inner">
                                     <div class="item-photo">
-                                        <a href="/lop-hoc-nau-an/lop-banh-mousse-day-tay-71" target="_self">
+                                        <a href="" target="_self">
                                             <img data-src='<?php echo $row1['hinhanh']?>' data-original='<?php echo $row1['hinhanh']?>' data-lazy='<?php echo $row1['hinhanh']?>' alt='<?php echo $row1['tensp']?>' class='lazy img-responsive' src='<?php echo $row1['hinhanh']?>'  />
                                         </a>
                                     </div>
                                     <div class="item-info">
                                         <div class="item-header">
                                             <div class="title">
-                                                <a href="/lop-hoc-nau-an/lop-banh-mousse-day-tay-71" target="_self"><h3><?php echo $row1['tensp']?></h3></a>
+                                                <a href="" target="_self"><h3><?php echo $row1['tensp']?></h3></a>
                                             </div>
                                         </div>
                                         <div class="event-calendar">
@@ -235,7 +235,7 @@
                                         </div>
                                     </div>
                                     <div class="register">
-                                        <a class="btn btn-orange" href="/lop-hoc-nau-an/lop-banh-mousse-day-tay-71" target="_self">
+                                        <a class="btn btn-orange" href="" target="_self">
                                             <i class="fa fa-hand-o-right"></i>
                                             Mua Hàng
                                         </a>
@@ -274,14 +274,14 @@
                     <div class="item">
                         <div class="item-inner">
                             <div class="item-photo">
-                                <a href="/lop-hoc-nau-an/lop-banh-mousse-day-tay-71" target="_self">
+                                <a href="" target="_self">
                                     <img data-src='<?php echo $row3['hinhanh']?>' data-original='<?php echo $row3['hinhanh']?>' data-lazy='<?php echo $row3['hinhanh']?>' alt='<?php echo $row3['tensp']?>' class='lazy img-responsive' src='<?php echo $row3['hinhanh']?>'  />
                                 </a>
                             </div>
                             <div class="item-info">
                                 <div class="item-header">
                                     <div class="title">
-                                        <a href="/lop-hoc-nau-an/lop-banh-mousse-day-tay-71" target="_self"><h3><?php echo $row3['tensp']?></h3></a>
+                                        <a href="" target="_self"><h3><?php echo $row3['tensp']?></h3></a>
                                     </div>
                                 </div>
                                 <div class="event-calendar">
@@ -290,7 +290,61 @@
                                 </div>
                             </div>
                             <div class="register">
-                                <a class="btn btn-orange" href="/lop-hoc-nau-an/lop-banh-mousse-day-tay-71" target="_self">
+                                <a class="btn btn-orange" href="" target="_self">
+                                    <i class="fa fa-hand-o-right"></i>
+                                    Mua Hàng
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                <?php }?>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="wide-box wide-box-white home-top-box">
+    <div class="container">
+        <div class="headline">
+            <h2>
+                    Chề
+                <a href="" target="_blank" class="view-more">xem thêm</a>
+            </h2>
+            <span class="desc">
+                        Mời bạn mua hàng
+                    </span>
+        </div>
+        <div class="home-class">
+            <div class="class-list">
+                <?php
+                $sql6=$db->demsanpham_che();
+                $query6=$db->query($sql6);
+                $rows3=$db->lay_rows($query6);
+                $dem3=$rows3['dem'];
+                $sql7=$db->hienthisanpham_che($dem3-3,$dem3);
+                $query7=$db->query($sql7);
+                while ($row4=$db->lay_rows($query7))
+                {
+                    ?>
+                    <div class="item">
+                        <div class="item-inner">
+                            <div class="item-photo">
+                                <a href="" target="_self">
+                                    <img data-src='<?php echo $row4['hinhanh']?>' data-original='<?php echo $row4['hinhanh']?>' data-lazy='<?php echo $row4['hinhanh']?>' alt='<?php echo $row4['tensp']?>' class='lazy img-responsive' src='<?php echo $row4['hinhanh']?>'  />
+                                </a>
+                            </div>
+                            <div class="item-info">
+                                <div class="item-header">
+                                    <div class="title">
+                                        <a href="" target="_self"><h3><?php echo $row4['tensp']?></h3></a>
+                                    </div>
+                                </div>
+                                <div class="event-calendar">
+                                    <div class="location">Giá</div>
+                                    <div class="date"><span class="time"><?php echo $row4['gia']?> VNĐ</span></div>
+                                </div>
+                            </div>
+                            <div class="register">
+                                <a class="btn btn-orange" href="" target="_self">
                                     <i class="fa fa-hand-o-right"></i>
                                     Mua Hàng
                                 </a>
@@ -773,178 +827,8 @@
 </div>
 
     <footer>
-    <div class="footer-inner">
-        <div class="wide-box">
-            <div class="top-course-box">
-                <div class="container">
-                    <div class="top-course-list">
-                        <div class="top-course-header">
-                            <h3>Danh mục</h3>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-khai-vi-c1" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-folder-o text-gray"></span>
-                                <span> M&#243;n khai vị </span>
-                                <span class="text">(<span class="count">2635</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-trang-mieng-c2" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-folder-o text-gray"></span>
-                                <span> M&#243;n tr&#225;ng miệng </span>
-                                <span class="text">(<span class="count">4351</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-chay-c3" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-folder-o text-gray"></span>
-                                <span> M&#243;n chay </span>
-                                <span class="text">(<span class="count">855</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-chinh-c4" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-folder-o text-gray"></span>
-                                <span> M&#243;n ch&#237;nh </span>
-                                <span class="text">(<span class="count">10456</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam" target="_blank" class="other">
-                                Xem thêm
-                                <span class="text">
-                                    <span class="fa fa-angle-double-right"></span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                                        <div class="top-course-list">
-                        <div class="top-course-header">
-                            <h3>Ẩm thực</h3>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-viet-nam-cs1" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span> Việt Nam
-                                <span class="text">(<span class="count">20236</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-thai-lan-cs2" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span> Th&#225;i Lan
-                                <span class="text">(<span class="count">364</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-y-cs3" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span> &#221;
-                                <span class="text">(<span class="count">286</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-han-quoc-cs4" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span> H&#224;n Quốc
-                                <span class="text">(<span class="count">658</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam" target="_blank" class="other">
-                                Xem thêm
-                                <span class="text">
-                                    <span class="fa fa-angle-double-right"></span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                                        <div class="top-course-list">
-                        <div class="top-course-header">
-                            <h3>Loại món</h3>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-snacks-ngon-d122" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Sandwich
-                                <span class="text">(<span class="count">311</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-cupcake-ngon-d123" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Cupcake
-                                <span class="text">(<span class="count">131</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-pasta-spaghetti-ngon-d124" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Latte
-                                <span class="text">(<span class="count">306</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-mien-hu-tieu-ngon-d125" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Binsu
-                                <span class="text">(<span class="count">170</span>)</span>
-                            </a>
-                        </div>
-
-                        <div class="top-course-item">
-                            <a href="/cach-lam" target="_blank" class="other">
-                                Xem thêm
-                                <span class="text">
-                                    <span class="fa fa-angle-double-right"></span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                                        <div class="top-course-list">
-                        <div class="top-course-header">
-                            <h3>Mục đích</h3>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-an-sang-p2" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Ăn s&#225;ng
-                                <span class="text">(<span class="count">5803</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-an-trua-p3" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Ăn trưa
-                                <span class="text">(<span class="count">13649</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-an-kieng-p4" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Ăn ki&#234;ng
-                                <span class="text">(<span class="count">712</span>)</span>
-                            </a>
-                        </div>
-                        <div class="top-course-item">
-                            <a href="/cach-lam/mon-an-giam-can-p5" target="_blank" class="mon-khai-vi">
-                                <span class="fa fa-angle-right"></span>
-                                Giảm c&#226;n
-                                <span class="text">(<span class="count">810</span>)</span>
-                            </a>
-                        </div>
-
-
-                        <div class="top-course-item">
-                            <a href="/cach-lam" target="_blank" class="other">
-                                Xem thêm
-                                <span class="text">
-                                    <span class="fa fa-angle-double-right"></span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-</footer>
+    <?php require_once 'footer.php'?>
+    </footer>
 <div id="intro-content" style="display: none; padding: 0;" class="intro-content intro-content-right">
     <div style="position: relative">
         <a id="intro-content-url" target="_blank" href="">

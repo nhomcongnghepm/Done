@@ -30,16 +30,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="16" />
+          <entry key="css" value="20" />
           <entry key="json" value="1" />
-          <entry key="php" value="110" />
+          <entry key="php" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="16" />
+          <entry key="CSS" value="17" />
           <entry key="JSON" value="1" />
-          <entry key="PHP" value="110" />
+          <entry key="PHP" value="112" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class" />
@@ -52,54 +54,46 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="420" />
-          <entry key="PHP" value="5946" />
+          <entry key="PHP" value="6463" />
+          <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="420" />
-          <entry key="php" value="5946" />
+          <entry key="css" value="458" />
+          <entry key="php" value="6463" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view/trangchu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="136">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+        <entry file="file://$PROJECT_DIR$/view/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13042" selection-start-line="4" selection-start-column="13042" selection-end-line="4" selection-end-column="13042" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="177" column="37" selection-start-line="177" selection-start-column="37" selection-end-line="177" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/frameworks.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret column="58774" selection-start-column="58774" selection-end-column="58774" />
+            <state relative-caret-position="147">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding>
-                <element signature="e#7186#7269#2" expanded="true" />
+                <element signature="e#2567#2573#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -128,12 +122,15 @@
       <find>x</find>
       <find>dethi_de</find>
       <find>hient</find>
-      <find>hienthisanpham</find>
       <find>Content</find>
       <find>Content/</find>
-      <find>.img-responsive</find>
-      <find>xem thêm</find>
       <find>.img-responsive,</find>
+      <find>hienthisanpham</find>
+      <find>xem thêm</find>
+      <find>.img-responsive</find>
+      <find>footer-inner</find>
+      <find>footer &gt; ul</find>
+      <find>footer &gt;</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -169,10 +166,12 @@
         <option value="$PROJECT_DIR$/gentelella-master/modal/database.php" />
         <option value="$PROJECT_DIR$/gentelella-master/controler/taosanpham.php" />
         <option value="$PROJECT_DIR$/assets/css/frameworks.css" />
-        <option value="$PROJECT_DIR$/model/database.php" />
         <option value="$PROJECT_DIR$/assets/css/core.css" />
         <option value="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/model/database.php" />
         <option value="$PROJECT_DIR$/view/trangchu.php" />
+        <option value="$PROJECT_DIR$/view/footer.php" />
+        <option value="$PROJECT_DIR$/assets/footer.css" />
       </list>
     </option>
   </component>
@@ -245,7 +244,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="817" />
     <option name="y" value="7" />
     <option name="width" value="897" />
@@ -291,19 +290,7 @@
             <path>
               <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
               <item name="banhang" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="banhang" type="462c0819:PsiDirectoryNode" />
               <item name="gentelella-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="banhang" type="462c0819:PsiDirectoryNode" />
-              <item name="gentelella-master" type="462c0819:PsiDirectoryNode" />
-              <item name="modal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
@@ -329,6 +316,15 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="banhang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -338,6 +334,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -388,22 +385,22 @@
       <workItem from="1540252222103" duration="1100000" />
       <workItem from="1543929793870" duration="23107000" />
       <workItem from="1543953201047" duration="5000" />
-      <workItem from="1543971276938" duration="6601000" />
+      <workItem from="1543971276938" duration="9045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74263000" />
+    <option name="totallyTimeSpent" value="76707000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952183" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.32879046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -419,6 +416,27 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.32879046" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -427,9 +445,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/silde.css" />
-    <entry file="file://$PROJECT_DIR$/core.css" />
-    <entry file="file://$PROJECT_DIR$/home.css" />
     <entry file="file://$PROJECT_DIR$/frameworks.css" />
     <entry file="file://$PROJECT_DIR$/trangchu.php" />
     <entry file="file://$PROJECT_DIR$/gentelella-master/production/home.php">
@@ -443,13 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="4" selection-start-line="20" selection-start-column="28" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -670,27 +678,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="177" column="37" selection-start-line="177" selection-start-column="37" selection-end-line="177" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/core.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/frameworks.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret column="58774" selection-start-column="58774" selection-end-column="58774" />
-          <folding>
-            <element signature="e#7186#7269#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,10 +695,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="159" column="54" selection-start-line="159" selection-start-column="54" selection-end-line="159" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/frameworks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret column="58774" selection-start-column="58774" selection-end-column="58774" />
+          <folding>
+            <element signature="e#7186#7269#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/view/trangchu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#2567#2573#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
         </state>
       </provider>
     </entry>

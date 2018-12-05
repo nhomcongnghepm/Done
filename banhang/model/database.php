@@ -154,6 +154,13 @@ class database
             return $sql;
         }
     }
+    public function hienthisanpham_che($i,$d)
+    {
+        if ($this->cn) {
+            $sql = "SELECT * FROM sanpham WHERE loai=3 LIMIT $i,$d";
+            return $sql;
+        }
+    }
     public function test()
     {
         if ($this->cn) {
@@ -178,6 +185,12 @@ class database
     public function demsanpham_trasua(){
         if($this->cn){
             $sql="SELECT count(masp) as dem FROM sanpham WHERE loai=2 ";
+            return $sql;
+        }
+    }
+    public function demsanpham_che(){
+        if($this->cn){
+            $sql="SELECT count(masp) as dem FROM sanpham WHERE loai=3 ";
             return $sql;
         }
     }
