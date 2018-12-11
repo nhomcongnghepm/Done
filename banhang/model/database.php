@@ -216,5 +216,12 @@ class database
         $delete .= "'')";
         return $delete;
     }
+    public function xoa_1sanpham($giohang)
+    {
+        foreach($giohang as $id =>$ls)
+        {
+
+        }
+    }
 }
 ?>

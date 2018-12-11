@@ -27,7 +27,7 @@ while ($row4=$db->lay_rows($query7))
                 </div>
             </div>
             <div class="register">
-                <a class="btn btn-orange" href="" target="_self">
+                <a class="btn btn-orange" href="../view/add.php?id=<?php echo $row4['masp']?>" target="_self">
                     <i class="fa fa-hand-o-right"></i>
                     Mua Hàng
                 </a>

@@ -77,12 +77,7 @@
                                 <p><?php echo $row['mota']?></p>
                             </div>
 							<div class="space20">&nbsp;</div>
-
-							<p>Thêm Vào Giỏ Hàng</p>
-							<div class="single-item-options">
-								<a class="add-to-cart" href="#"><i class="fa fa-shopping-cart"></i></a>
-								<div class="clearfix"></div>
-							</div>
+                            <a href="../view/add.php?id=<?php echo $row['masp'];?>"><p>Thêm Vào Giỏ Hàng</p></a>
 						</div>
 					</div>
 

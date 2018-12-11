@@ -37,7 +37,7 @@ while ($row=$db->lay_rows($query1))
                 </p>
             </div>
             <div class="single-item-caption">
-                <a class="add-to-cart pull-left" href="../controller/c_themhang.php" ><i class="fa fa-shopping-cart"></i></a>
+                <a class="add-to-cart pull-left" href="../view/add.php?id=<?php echo $row['masp']?>"><i class="fa fa-shopping-cart"></i></a>
                 <a class="beta-btn primary" href="../view/product.php?masp=<?php echo $row['masp']?>">Chi tiết <i class="fa fa-chevron-right"></i></a>
                 <div class="clearfix"></div>
             </div>
